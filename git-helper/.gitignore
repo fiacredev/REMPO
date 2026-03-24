@@ -1,0 +1,12 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore build output
+dist/
+out/
+
+# Logs
+*.log
+
+# VS Code workspace settings
+.vscode/
